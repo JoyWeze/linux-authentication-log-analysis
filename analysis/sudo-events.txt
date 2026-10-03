@@ -1,0 +1,38 @@
+Sep 28 18:39:49 weze-lab sudo[5776]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 28 18:39:49 weze-lab sudo[5776]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 18:39:49 weze-lab sudo[5776]: pam_unix(sudo:session): session closed for user root
+Sep 28 18:45:33 weze-lab sudo[8965]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/nano /etc/apt/sources.list
+Sep 28 18:45:33 weze-lab sudo[8965]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 18:46:46 weze-lab sudo[8965]: pam_unix(sudo:session): session closed for user root
+Sep 28 18:47:01 weze-lab sudo[9719]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 28 18:47:01 weze-lab sudo[9719]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 18:47:01 weze-lab sudo[9719]: pam_unix(sudo:session): session closed for user root
+Sep 28 19:05:41 weze-lab sudo[18944]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh --no-pager
+Sep 28 19:05:41 weze-lab sudo[18944]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 19:05:41 weze-lab sudo[18944]: pam_unix(sudo:session): session closed for user root
+Sep 28 19:06:18 weze-lab sudo[19476]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:06:18 weze-lab sudo[19476]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 19:06:18 weze-lab sudo[19476]: pam_unix(sudo:session): session closed for user root
+Sep 28 19:13:01 weze-lab sudo[22890]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:13:01 weze-lab sudo[22890]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 19:13:01 weze-lab sudo[22890]: pam_unix(sudo:session): session closed for user root
+Sep 28 19:28:58 weze-lab sudo[31143]: pam_unix(sudo:auth): authentication failure; logname=nene26 uid=1000 euid=0 tty=/dev/pts/0 ruser=nene26 rhost=  user=nene26
+Sep 28 19:29:22 weze-lab sudo[31143]: pam_unix(sudo:auth): conversation failed
+Sep 28 19:29:22 weze-lab sudo[31143]: pam_unix(sudo:auth): auth could not identify password for [nene26]
+Sep 28 19:29:22 weze-lab sudo[31143]:   nene26 : 2 incorrect password attempts ; TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:32:18 weze-lab sudo[32917]: pam_unix(sudo:auth): authentication failure; logname=nene26 uid=1000 euid=0 tty=/dev/pts/0 ruser=nene26 rhost=  user=nene26
+Sep 28 19:32:31 weze-lab sudo[32917]:   nene26 : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:34:44 weze-lab sudo[34832]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:34:44 weze-lab sudo[34832]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 19:34:44 weze-lab sudo[34832]: pam_unix(sudo:session): session closed for user root
+Sep 28 19:37:08 weze-lab sudo[36265]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --since today --no-pager
+Sep 28 19:37:08 weze-lab sudo[36265]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Sep 28 19:37:08 weze-lab sudo[36265]: pam_unix(sudo:session): session closed for user root
+Oct 02 11:09:55 weze-lab sudo[49270]:   nene26 : TTY=pts/0 ; PWD=/home/nene26/linux-authentication-log-analysis ; USER=root ; COMMAND=/usr/bin/journalctl -u ssh
+Oct 02 11:09:55 weze-lab sudo[49270]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Oct 02 11:09:55 weze-lab sudo[49270]: pam_unix(sudo:session): session closed for user root
+Oct 02 12:12:35 weze-lab sudo[78111]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl
+Oct 02 12:12:35 weze-lab sudo[78111]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)
+Oct 02 12:12:35 weze-lab sudo[78111]: pam_unix(sudo:session): session closed for user root
+Oct 02 12:24:11 weze-lab sudo[84284]:   nene26 : TTY=pts/0 ; PWD=/home/nene26 ; USER=root ; COMMAND=/usr/bin/journalctl --no-pager
+Oct 02 12:24:11 weze-lab sudo[84284]: pam_unix(sudo:session): session opened for user root(uid=0) by nene26(uid=1000)

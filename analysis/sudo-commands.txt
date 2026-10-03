@@ -1,0 +1,13 @@
+COMMAND=/usr/bin/apt update
+COMMAND=/usr/bin/nano /etc/apt/sources.list
+COMMAND=/usr/bin/apt update
+COMMAND=/usr/bin/journalctl -u ssh --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl --since today --no-pager
+COMMAND=/usr/bin/journalctl -u ssh
+COMMAND=/usr/bin/journalctl
+COMMAND=/usr/bin/journalctl --no-pager

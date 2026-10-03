@@ -1,0 +1,2 @@
+Sep 28 19:28:58 weze-lab sudo[31143]: pam_unix(sudo:auth): authentication failure; logname=nene26 uid=1000 euid=0 tty=/dev/pts/0 ruser=nene26 rhost=  user=nene26
+Sep 28 19:32:18 weze-lab sudo[32917]: pam_unix(sudo:auth): authentication failure; logname=nene26 uid=1000 euid=0 tty=/dev/pts/0 ruser=nene26 rhost=  user=nene26
