@@ -73,5 +73,4 @@ Linux-authentication-log-analysis/
 - - sessions-closures.txt
 - findings/
 - - incident-report.md
-- screenshot/
 
